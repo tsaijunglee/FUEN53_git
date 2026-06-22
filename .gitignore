@@ -7,6 +7,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# CSS files (如果你真的要忽略)
+*.css
+
 # User-specific files
 *.rsuser
 *.suo
