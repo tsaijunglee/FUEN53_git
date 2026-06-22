@@ -11,6 +11,7 @@
 *.css
 key_test
 key_test.pub
+ApolloWebsite/
 
 # User-specific files
 *.rsuser
